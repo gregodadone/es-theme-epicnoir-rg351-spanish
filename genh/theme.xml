@@ -4,24 +4,24 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Genesis</text>
+    <text>Sega Megadrive Hacks</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Genesis</text>
+    <text>Sega (Hacks & Homebrews)</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>hacks roms</text>
+    <text>Megadrive</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1990  ·  16-bit Console</text>
+   <text>1988  ·  16-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Hacks</text>
+   <text>Juegos hackeados o creados por aficionados o empresas pero no licenciados por Sega</text>
   </text>
  </view>
 </theme>
