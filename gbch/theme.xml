@@ -4,24 +4,24 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>GBC</text>
+    <text>GBC Hacks</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Game Boy Color</text>
+    <text>Nintendo (Hacks & Homebrews)</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>hacks roms</text>
+    <text>Game Boy Color</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1990  ·  16-bit Console</text>
+   <text>1998  ·  Consola Portatil 8-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Hacks</text>
+   <text>Juegos hackeados o creados por aficionados o empresas pero no licenciados por Nintendo</text>
   </text>
  </view>
 </theme>

@@ -14,10 +14,10 @@
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>1983  ·  8-bit Computer</text>
+   <text>1983  ·  Computadora 8-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>MSX is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers</text>
+   <text>MSX es un estándar de computadoras anunciado por Microsoft en un intento de hacer hardware y software compatible entre distintos fabricantes</text>
   </text>
  </view>
 </theme>

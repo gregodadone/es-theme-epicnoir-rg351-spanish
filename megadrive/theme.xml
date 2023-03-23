@@ -14,14 +14,14 @@
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>Megadrive</text>
+    <text>Mega Drive</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1988  ·  16-bit Console</text>
+   <text>1988  ·  Consola 16-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Lanzada en Japón como Megadrive y en occidente como Genesis. 3ra consola de Sega, sucesora de la Master System</text>
+   <text>Lanzada en Japón como Mega Drive y en occidente como Genesis. 3ra consola de Sega, sucesora de la Master System</text>
   </text>
  </view>
 </theme>

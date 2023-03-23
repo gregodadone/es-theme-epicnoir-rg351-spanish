@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>GameBoy Color</text>
+    <text>Game Boy Color</text>
   </text>
 </view>    
 
@@ -14,14 +14,14 @@
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>GameBoy Color</text>
+    <text>Game Boy Color</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1998  ·  8-bit Handheld Console</text>
+   <text>1998  ·  Consola Portatil 8-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Game Boy Color features a color screen. It is slightly thicker and taller and features a slightly smaller screen then the Game Boy Pocket</text>
+   <text>La Game Boy Color no fue una consola planeada, salió de imprevisto debido al retraso de la Game Boy Advanced. Era retrocompatible con la Game Boy</text>
   </text>
  </view>
 </theme>

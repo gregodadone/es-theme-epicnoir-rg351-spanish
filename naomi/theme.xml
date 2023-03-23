@@ -11,16 +11,14 @@
   <text name="sys_line1" extra="true">
     <text>Sega</text>
   </text> 
-</view>
-<view name="system">
   <text name="sys_line2" extra="true">
     <text>Naomi</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1998  ·  Arcade Board</text>
+   <text>1998  ·  Placa Arcade</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>A development of the Dreamcast home game console, the NAOMI and Dreamcast share the same hardware components.</text>
+   <text>Placa para máquinas arcade que compartía el mismo hardware que la Sega Dreamcast</text>
   </text>
  </view>
 </theme>

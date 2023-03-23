@@ -10,18 +10,18 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Neo Geo</text>
+    <text>SNK</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>Pocket Color</text>
+    <text>Neo Geo Pocket Color</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1999  ·  16-bit Handheld Console</text>
+   <text>1999  ·  Consola Portatil 16-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
+   <text>Fue el reemplazo con pantalla a color de la Neo Geo Pocket. Es totalmente compatible con la misma.</text>
   </text>
  </view>
 </theme>

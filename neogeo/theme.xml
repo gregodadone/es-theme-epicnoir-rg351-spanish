@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Neo Geo</text>
+    <text>Neo-Geo</text>
   </text>
 </view>    
 
@@ -13,13 +13,13 @@
     <text>SNK</text>
  </text>
   <text name="sys_line2" extra="true">
-    <text>Neo Geo</text>
+    <text>Neo-Geo</text>
   </text> 
   <text name="shortdescription" extra="true">
-   <text>1990  ·  24-bit Console</text>
+   <text>1990  ·  Consola 24-bit (16 + 8)</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time</text>
+   <text>Fue lanzada en 2 versiones, como placa para máquinas arcade y como consola doméstica. Fue muy superior a sus competidoras en su época</text>
   </text>
  </view>
 </theme>

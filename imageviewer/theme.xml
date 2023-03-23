@@ -17,10 +17,10 @@
     <size>0 0</size>
   </text>  
   <text name="shortdescription" extra="true">
-   <text>All Screenshots </text>
+   <text>Capturas de pantalla</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly view all of your Screenshots.</text>
+   <text>Acceda rápidamente a sus capturas de pantalla</text>
   </text>
  </view>
 </theme>
