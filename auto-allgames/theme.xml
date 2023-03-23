@@ -4,20 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>All Games</text>
+    <text>Todos los juegos</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>All Games</text>
+    <text>Todos los juegos</text>
 
   </text>  
   <text name="shortdescription" extra="true">
-   <text>All Consoles / Handhelds</text>
+   <text>Todas las consolas y computadoras</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play every single game across the entire library</text>
+   <text>Todos los juegos de todas las consolas, placas y computadoras</text>
   </text>
  </view>
 </theme>

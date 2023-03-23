@@ -13,10 +13,10 @@
     <text>Amiga</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1985  ·  16-bit Computer</text>
+   <text>1985  ·  Computadora 16-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The original model was part of a wave of 16 and 32 bit computers that featured 256KB or more of RAM, mouse-based GUIs, and improved graphics & audio</text>
+   <text>El modelo original era parte de la ola de computadoras de 16 y 32 bit que tenían 256KB o más de RAM, interfaces con mouse y gráficos y audio mejorados</text>
   </text>
  </view>
 </theme>

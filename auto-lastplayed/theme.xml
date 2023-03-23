@@ -4,17 +4,17 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Last Played</text>
+    <text>Últimos jugados</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Last Played</text>
+    <text>Últimos jugados</text>
 
   </text>  
   <text name="shortdescription" extra="true">
-   <text>All Consoles / Handhelds</text>
+   <text>Todas las consolas y computadoras</text>
   </text>
   <text name="longdescription" extra="true">
    <text>Access and quickly play recently played games across the entire library</text>
