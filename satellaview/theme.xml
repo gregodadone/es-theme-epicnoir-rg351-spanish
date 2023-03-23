@@ -1,26 +1,27 @@
 <theme>
-<formatVersion>4</formatVersion>
+<formatVersion>7</formatVersion>
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
-    <text>Satellaview</text>
+  <text name="nameLabel" extra="true">
+    <text>Satellaview Super Nintendo</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Super nintendo</text>
+
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Satellaview</text>
-    <fontSize>0.16</fontSize>
-    <origin>0 0</origin>
-    <pos>0.05 0.12</pos>
-    <size>0 0</size>
-  </text>    
+    <text>satellaview</text>
+
+</text>
   <text name="shortdescription" extra="true">
-   <text>1995</text>
+   <text>1995  ·  16-bit Accessory</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Satellaview allowed players to download games, magazines and other forms of content through satellite broadcasts provided by Japanese company St. GIGA.</text>
+   <text>The Satellaview is a satellite modem peripheral produced by Nintendo for the Super Famicom in 1995.</text>
   </text>
  </view>
 </theme>
