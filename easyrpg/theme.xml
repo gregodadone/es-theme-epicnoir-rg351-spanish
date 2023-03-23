@@ -18,10 +18,10 @@
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>2019  ·  CUSTOM RPG Engine</text>
+   <text>2019  ·  Motor RPG</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Free and open source role playing game interpreter and editor compatible with RPG Maker 2000 and 2003.</text>
+   <text>Motor gratuito y open source para juegos de roles (RPG), compatible con RPG maker 2000 y 2003</text>
   </text>
  </view>
 </theme>

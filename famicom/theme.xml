@@ -10,18 +10,18 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Famicom</text>
+    <text>Nintendo</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>Disk System</text>
+    <text>Family Computer</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1986  ·  8-bit Console</text>
+   <text>1986  ·  Consola 8-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Family Computer (also known by the portmanteau abbreviation Famicom) was the Japanese version of the Nintendo Entertainment System</text>
+   <text>La Family Computer (o simplemente Family o Famicom) fue la versión japonesa de la Nintendo Entertainment System (NES)</text>
   </text>
  </view>
 </theme>

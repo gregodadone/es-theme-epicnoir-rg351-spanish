@@ -14,10 +14,10 @@
 
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Laserdisc Console</text>
+   <text>Emulador de Laserdisc</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</text>
+   <text>Los laserdisc fueron discos muy parecidos a los CDs pero con 30cm de diámetro. Este emulador emula aquellas máquinas Arcade que usaban este formato</text>
   </text>
  </view>
 </theme>

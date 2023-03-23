@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Beat 'em Up Genre</text>
+    <text>Género Beat 'em Up</text>
   </text>
 </view>    
 
@@ -14,10 +14,10 @@
 
   </text>  
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Género de juegos</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Beat 'em up (also known as brawler) feature hand-to-hand or weapon combat between the protagonist and an improbably large number of opponents</text>
+   <text>Beat 'em up (Golpealos) es un género de juegos que consiste en peleas cuerpo a cuerpo o con armas entre el protagonista y un gran número de oponentes</text>
   </text>
  </view>
 </theme>

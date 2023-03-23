@@ -14,10 +14,10 @@
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>LZdoom · Doom Engine</text>
+   <text>LZdoom · Motor Doom</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>LZDoom is a classic style GZDoom fork with lower system requirements</text>
+   <text>LZDoom esun fork de estilo clásico de GZDoom con menos requerimientos de sistema</text>
   </text>
  </view>
 </theme>

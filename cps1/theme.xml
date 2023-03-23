@@ -18,10 +18,10 @@
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1988  ·  Arcade Board</text>
+   <text>1988  ·  Placa Arcade</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The CPS is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges.</text>
+   <text>La CPS es una placa arcade desarrollada por Capcom que corría juegos alojados en cartuchos ROM removibles</text>
   </text>
  </view>
 </theme>

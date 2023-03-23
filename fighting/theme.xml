@@ -4,23 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Fighting Genre</text>
+    <text>Género Lucha</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Fighting</text>
+    <text>Lucha</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
     <pos>0.12 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+   <text>Género de juegos</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>In a fighting game, the player engages in close combat with an AI or player-controlled opponent</text>
+   <text>En un juego de lucha, el jugador mantiene una pelea 1 a 1 contra la CPU u otro jugador</text>
   </text>
  </view>
 </theme>

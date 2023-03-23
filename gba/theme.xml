@@ -4,24 +4,24 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>GameBoy Advance</text>
+    <text>Game Boy Advance</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>NINTENDO gameboy</text>
+    <text>Nintendo</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>Advance</text>
+    <text>Gameboy Advance</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>2001  ·  32-bit Handheld Console</text>
+   <text>2001  ·  Consola portatil 32-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Successor to the Game Boy Color. Market competitors at the time were the Neo Geo Pocket Color, Wonder Swan, GP32 and the N-Gage</text>
+   <text>Lanzada con un procesador de 32 bits, era retrocompatible con juegos de la Game Boy y la Game Boy Color</text>
   </text>
  </view>
 </theme>
