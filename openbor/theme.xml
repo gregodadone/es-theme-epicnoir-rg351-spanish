@@ -17,10 +17,10 @@
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>2003  ·  24-bit Console</text>
+   <text>2003  ·  Motor de juegos</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Senile Team Engine to make FanMade Games.</text>
+   <text>Motor de juegos open source de desplazamiento horizontal. Es usado generalmente para la creación de juegos hechos por fans</text>
   </text>
  </view>
 </theme>
