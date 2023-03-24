@@ -9,11 +9,8 @@
   </view>
 
   <view name="system">
-    <text name="sys_line1" extra="true">
-      <text>Super</text>
-    </text>
     <text name="sys_line2" extra="true">
-      <text>Nintendo</text>
+      <text>Super Nintendo</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1990 · Consola 16-bit</text>
