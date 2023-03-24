@@ -4,22 +4,22 @@
 
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>SINCLAIR ZX-81</text>
+      <text>TurboGrafx-16</text>
     </text>
   </view>
 
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Sinclair</text>
+      <text>NEC</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>ZX-81</text>
+      <text>TurboGrafx-16</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>1980 · Computadora 8-bit</text>
+      <text>1987 · Consola 16-bit</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>La ZX-81 fue notable en su época por ser muy barata. Los programas se leían y grababan en casetes de audio comunes</text>
+      <text>También conocida como PC Engine. Aunque fue planeada para competir con la NES, terminó compitiendo con la Mega Drive y con la Super Nintendo</text>
     </text>
   </view>
 </theme>

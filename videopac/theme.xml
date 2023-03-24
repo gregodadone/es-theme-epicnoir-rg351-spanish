@@ -1,27 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>Videopac</text>
-  </text>
-</view>    
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Videopac G7000</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>magnavox</text>
-
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>Videopac</text>
-
-</text>
-  <text name="shortdescription" extra="true">
-   <text>1978  ·  8-bit Console</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Videopac is a second generation home video game console that was released in 1978</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Magnavox</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Videopac G7000</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1978 · Consola 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>La Magnavox Odyssey 2, o Videopac G7000 fue una consola de segunda generación, sucesora de la Odyssey que compitió con la Atari 2600</text>
+    </text>
+  </view>
 </theme>

@@ -1,86 +1,72 @@
-## FORK EpicNoir RetroPie Theme
+# FORK EpicNoir RetroPie Theme
 
-Fork of epic noir Theme modified by CodyV59 to fit the RG351V from anbernic
-Thanks to Chicuelo and Nick L (c64-dev)
+Fork de [es-theme-epic-cody-RG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V) para la Ambernic RG351V.
 
-Edits made by CodyV59 and Szalik
-Deacreased file sizes by nearly half, added systems, and made edits to make it viewable on smaller 480x320 devices like Odroid Go Advanced, RGB10, RK2020, RG351P, ect.
+Traducido completamente al español y corregidos algunos errores.
 
----
+Contiene imágenes en calidad reducida para adaptarse a la pantalla de la RG351V, pero también sería util para la RG351MP u otras pantallas de 640x320.
 
-### License
+## Licencia
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
+Trabajo licenciado bajo una licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Licence")
 
-ALLOWED:
-- Share and duplicate as it is
-- Edit, alter, change it
+Permitido:
+- Compartir y duplicar tal como está
+- Editar, alterar, cambiar
 
-REQUIREMENTS:
-- Attribution, give credit to the creators
-- Indicate changes to the theme
-- Publish the changes under the same license
+Requerimientos:
+- Atribución, dar créditos a los creadores
+- Indicar cambios hechos al tema
+- Publicar los cambios bajo la misma licencia
 
-PROHIBITED:
-- Commercial distribution
+Prohibido:
+- Uso comercial
 
-### Please note:
-By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
+## Nota:
+Al descargar e instalar este tema, está asumido que usted posee los derechos para todas las ROMs que pretende usar. Este es un tema gratuito por lo que usted puede instalarlo y compartirlo con otros - **pero usted *no* tiene permitido vender o generar ningún tipo de beneficio monetario de este tema. Por favor vea la sección 'Licencia' arriba para más detalles.**
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+## Agradecimientos y créditos
 
----
+Todo el arte pertenece a muchos artistas que pusieron su talento y tiempo para crearlo.
+La mayoría puede ser encontrado en [DeviantArt](http://www.deviantart.com/).
 
-### Thanks and Credits
+## Características
 
-All original artwork belongs to the many artists who devoted their talents and time into making them. 
-Most of them can be found in [DeviantArt](http://www.deviantart.com/).
-
-###### [back to top](https://github.com/CodyV59/es-theme-epic-cody-RG351V)
-
----
-
-### Features
-
-* Dark and clean interface
-* New high quality wallpapers for all systems
-* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
-* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
-* Support for screenshots/boxart and/or video.
-
-###### [back to top](https://github.com/CodyV59/es-theme-epic-cody-RG351V)
+* Interfaz oscura y limpia
+* Nuevos wallpapers de alta calidad para todos los sistemas
+* Colecciones personalizadas pre-diseñadas / creadas para varios géneros de juegos (como Aventura, Plataformas, etc)
+* Colecciones para 'Todos los juegos', 'Favoritos', 'Últimos jugados' y 'Colección personalizada' totalmente soportados
+* Soporte para screenshots/boxart y/o videos.
 
 ---
 
-### Installation and Updating
+## Instalación y actualización
 
-1. Close EmulationStation.
+1. Cerrar EmulationStation.
 
-2. Create folder `~/.emulationstation/themes` if it does not exist.
+2. Crear carpeta `~/.config/emulationstation/themes` si no existe.
 
-3. Run in a terminal:
+3. Ejecutar en terminal:
 
-       cd ~/.emulationstation/themes
-       git clone https://github.com/c64-dev/es-epicnoir.git --branch master
+       cd ~/.config/emulationstation/themes
+       git clone https://github.com/c64-dev/es-epicnoir.git
 
-### Update
+### Actualización
 
-In order to update your installed theme (if you installed with above instructions), open a terminal and run:
+Para actualizar el tema, si es que lo instaló con las instrucciones de arriba, ejecute en terminal:
 
-    cd ~/.emulationstation/themes/es-theme-epic-cody-RG351V
+    cd ~/.config/emulationstation/themes/es-theme-epic-cody-RG351V
     git pull
 
-### Theme Notes
+### Notas del tema
 
-This theme supports video. You can also use a scraped image in conjunction with the video. If you scrape both, when a game is selected, it will show the screenshot for a couple of seconds before fading and playing the video.
+Este tema soporta video. Usted también puede scrapear imágenes en conjunto con el video. Si usted scrapea ambos, cuando un juego es seleccionado, va a mostrar la imagen por un par de segundos antes de desvanecerse y reproducir el video.
 
-Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
+Las screenshots no están incluidas con el tema. Usted puede scrapearlas usted mismo.
 
-###### [back to top](https://github.com/CodyV59/es-theme-epic-cody-RG351V)
-
-## Fully Supported Systems
-###### (backgrounds, controller images, descriptions) :
+## Sistemas soportados
+###### (fondos, imágenes de controlador, descripción) :
 
 3DO \
 Amstrad CPC \
@@ -110,7 +96,7 @@ Nintendo DS \
 Nintendo Dreamcast \ 
 Nintendo Entertainment System \
 Nintendo Gameboy \
-Nintendo Gameboy  Advance\
+Nintendo Gameboy Advance\
 Nintendo Gameboy Color \
 Nintendo GameCube \
 Nintendo SNES \
@@ -137,8 +123,6 @@ Wonderswan \
 Wonderswan Color \
 x-68000 
 
-**Collections:** \
-Auto Collections
-Custom Collections (for when a user creates their own collection within ES)
-
-###### [back to top](https://github.com/CodyV59/es-theme-epic-cody-RG351V)
+**Colecciones:** \
+Colecciones automáticas
+Colecciones personalizadas (para cuando un usuario crea su propia colección dentro de EmulationStation)
