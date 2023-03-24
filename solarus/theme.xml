@@ -14,10 +14,10 @@
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>2006 · Open Source Engine</text>
+   <text>2006 · Motor de juegos</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Solarus is a free and open-source game engine with the goal to allow people to create their own Action-RPG games</text>
+   <text>Solarus es un motor de juegos open source con el objetivo de permitir a los fans crear sus propios juegos de acción o RPGs</text>
   </text>
  </view>
 </theme>

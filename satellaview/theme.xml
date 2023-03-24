@@ -4,24 +4,24 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Satellaview Super Nintendo</text>
+    <text>Satellaview SNES</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Super nintendo</text>
+    <text>Super Nintendo</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>satellaview</text>
+    <text>Satellaview</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1995  ·  16-bit Accessory</text>
+   <text>1995  ·  Consola 16-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Satellaview is a satellite modem peripheral produced by Nintendo for the Super Famicom in 1995.</text>
+   <text>Periférico para la Super Nintendo que permitía a los jugadores descargar juegos, revistas y más a través de una sintonizador satelital conectado a la consola</text>
   </text>
  </view>
 </theme>

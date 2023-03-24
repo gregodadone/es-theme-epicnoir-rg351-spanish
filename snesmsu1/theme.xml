@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Super Nintendo CD-ROM</text>
+    <text>Super Nintendo</text>
   </text>
 </view>    
 
@@ -14,14 +14,14 @@
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>Nintendo CD</text>
+    <text>Nintendo (MSU1)</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1990  ·  16-bit Console</text>
+   <text>1990  ·  Consola 16-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Nintendo's second CD version home console introduced advanced graphics and sound capabilities compared with other systems at the time</text>
+   <text>Colección de juegos para Super Nintendo que incluían el chip MSU1, capaz de dotar a la consola con potencia gráfica y de audio adicionales</text>
   </text>
  </view>
 </theme>

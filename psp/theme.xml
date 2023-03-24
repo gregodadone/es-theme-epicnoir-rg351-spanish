@@ -4,21 +4,23 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Playstation Portable</text>
+    <text>Sony PSP</text>
   </text>
 </view>    
 
 <view name="system">
-
+  <text name="sys_line1" extra="true">
+    <text>Sony</text>
+</text>
   <text name="sys_line2" extra="true">
-    <text>SONY PSP</text>
+    <text>Playstation Portable</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>2004  ·  32-bit Handheld Console</text>
+   <text>2004  ·  Consola Portatil 32-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
+   <text>Primera consola portatil de Sony. Además de correr juegos era capaz de reproducir música, conectarse a internet, conectarse a una TV y contaba con un puerto para cámaras</text>
   </text>
  </view>
 </theme>

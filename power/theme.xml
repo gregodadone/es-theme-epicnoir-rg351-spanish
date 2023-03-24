@@ -4,26 +4,26 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Power</text>
+    <text>Apagado</text>
   </text>
     <text name="systemInfo">
-   <text>Configuration</text>
+   <text>Configuración</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Power</text>
+    <text>Apagado</text>
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>Shut Down Menu</text>
+   <text>Menú de apagado</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Safe option to Shut down or restart your System</text>
+   <text>Menú de opciones para apagar o reiniciar el sistema</text>
   </text>
   <text name="systemInfo">
-   <text>Configuration</text>
+   <text>Configuración</text>
   </text>
  </view>
 </theme>

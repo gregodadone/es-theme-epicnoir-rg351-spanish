@@ -4,20 +4,20 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Options</text>
+    <text>Opciones</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Options</text>
+    <text>Opciones</text>
 
   </text> 
   <text name="shortdescription" extra="true">
-   <text>System Configuration</text>
+   <text>Configuración del sistema</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+   <text>Configuración del hardware, bluetooth y redes. Instalación de actualizaciones, complementos y temas</text>
   </text>
  </view>
 </theme>

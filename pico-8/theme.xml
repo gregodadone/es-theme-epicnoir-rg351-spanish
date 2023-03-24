@@ -10,16 +10,16 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Pixel Games</text>
+    <text>Lexaloffle Games</text>
 </text>
   <text name="sys_line2" extra="true">
-    <text>ENGINE PICO-8</text>
+    <text>Pico-8</text>
 </text> 
   <text name="shortdescription" extra="true">
-   <text>2003  ·  Pixel Engine</text>
+   <text>2015  ·  Consola Virtual</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Pixel Engine Games.</text>
+   <text>Pico-8 es una consola de fantasía, sin formato físico, que imita los gráficos y sonidos de las consolas de 8 bits de los 80s</text>
   </text>
  </view>
 </theme>

@@ -4,21 +4,21 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Ports</text>
+    <text>Portados</text>
   </text>
 </view>    
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Game</text>
+    <text>Juegos</text>
   </text> 
   <text name="sys_line2" extra="true">
-    <text>Ports</text>
+    <text>Portados</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Software</text>
+   <text>Todos los tiempos</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Multi-platform ports of software and game engines from PC to DOS </text>
+   <text>Juegos de todos los tiempos portados a otras plataformas</text>
   </text>
  </view>
 </theme>

@@ -9,18 +9,17 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Watara</text>
+  </text>
   <text name="sys_line2" extra="true">
     <text>Supervision</text>
-    <fontSize>0.16</fontSize>
-    <origin>0 0</origin>
-    <pos>0.05 0.12</pos>
-    <size>0 0</size>
   </text>  
   <text name="shortdescription" extra="true">
-   <text>Watara</text>
+   <text>1992  ·  Consola Portatil 8-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy.</text>
+   <text>Consola portatil con pantalla monocromo, pensada para ser un competidor de bajo costo de la Nintendo Game Boy. Tenía un cable que permitía conectar a una TV</text>
   </text>
  </view>
 </theme>

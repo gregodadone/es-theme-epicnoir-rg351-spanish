@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Options</text>
+    <text>Opciones</text>
   </text>
 </view>    
 
@@ -17,7 +17,7 @@
    <text>Front-End</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>RetroArch is a frontend for emulators, game engines and media players</text>
+   <text>RetroArch es un frontend para emuladores, motores de juegos y reproductores multimedia</text>
   </text>
  </view>
 </theme>

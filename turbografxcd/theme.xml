@@ -4,20 +4,23 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>TurboGrafx CD</text>
+    <text>TurboGrafx-CD</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>NEC</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>TurboGrafx CD</text>
+    <text>TurboGrafx-CD</text>
 
   </text>   
   <text name="shortdescription" extra="true">
-   <text>1990  ·  16-bit Console</text>
+   <text>1990  ·  Consola 16-bit</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Add-on attachment for the TurboGrafx-16. The add-on allows core versions of the console to play TurboGrafx-16 games in CD-ROM format</text>
+   <text>Periférico para la TurboGrafx-16. Permitía a la TurboGrafx-16 correr juegos en formato CD-ROM. Se lanzaron sólo 10 juegos con este formato.</text>
   </text>
  </view>
 </theme>
