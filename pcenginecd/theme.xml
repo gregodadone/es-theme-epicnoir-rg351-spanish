@@ -6,7 +6,7 @@
     <text name="nameLabel" extra="true">
       <text>PC Engine CD</text>
     </text>
-  </view>    
+  </view>
 
   <view name="system">
     <text name="sys_line1" extra="true">
@@ -14,12 +14,12 @@
     </text>
     <text name="sys_line2" extra="true">
       <text>PC Engine CD-ROM</text>
-    </text>    
+    </text>
     <text name="shortdescription" extra="true">
-     <text>1988  ·  Consola 16-bit</text>
-   </text>
-   <text name="longdescription" extra="true">
-     <text>Periférico para la PC Engine. Permitía a la PC Engine correr juegos en formato CD-ROM. Se lanzaron sólo 10 juegos con este formato.</text>
-   </text>
- </view>
+      <text>1988 · Consola 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Periférico para la PC Engine. Permitía a la PC Engine correr juegos en formato CD-ROM. Se lanzaron sólo 10 juegos con este formato.</text>
+    </text>
+  </view>
 </theme>

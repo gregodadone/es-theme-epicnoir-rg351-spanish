@@ -1,27 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>Game Boy Color</text>
-  </text>
-</view>    
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Game Boy Color</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Nintendo</text>
-
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>Game Boy Color</text>
-
-</text>
-  <text name="shortdescription" extra="true">
-   <text>1998  ·  Consola Portatil 8-bit</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>La Game Boy Color no fue una consola planeada, salió de imprevisto debido al retraso de la Game Boy Advanced. Era retrocompatible con la Game Boy</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Nintendo</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Game Boy Color</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1998 · Consola Portatil 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>No fue una consola planeada, salió de imprevisto debido al retraso de la Game Boy Advanced. Era retrocompatible con la Game Boy</text>
+    </text>
+  </view>
 </theme>

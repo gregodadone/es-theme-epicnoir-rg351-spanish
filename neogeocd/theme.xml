@@ -1,26 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Neo-Geo CD</text>
-  </text>
-</view>    
+      <text>Neo-Geo CD</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>SNK</text>
- </text>
-  <text name="sys_line2" extra="true">
-    <text>Neo-Geo CD</text>
-
-  </text> 
-  <text name="shortdescription" extra="true">
-   <text>1994  ·  Consola 24-bit (16 + 8)</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>La Neo-Geo CD es una versión mejorada de la Neo-Geo con soporte para CD-ROMs, en un intento de abaratar el coste de los juegos</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>SNK</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Neo-Geo CD</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1994 · Consola 24-bit (16 + 8)</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>La Neo-Geo CD es una versión mejorada de la Neo-Geo con soporte para CD-ROMs, en un intento de abaratar el coste de los juegos</text>
+    </text>
+  </view>
 </theme>

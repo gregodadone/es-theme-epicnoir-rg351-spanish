@@ -1,23 +1,22 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Opciones</text>
-  </text>
-</view>    
+      <text>Opciones</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Opciones</text>
-
-  </text> 
-  <text name="shortdescription" extra="true">
-   <text>Configuración del sistema</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Configuración del hardware, bluetooth y redes. Instalación de actualizaciones, complementos y temas</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Opciones</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Configuración del sistema</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Configuración del hardware, bluetooth y redes. Instalación de actualizaciones, complementos y temas</text>
+    </text>
+  </view>
 </theme>

@@ -1,23 +1,22 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Colección Personalizada</text>
-  </text>
-</view>    
+      <text>Colección Personalizada</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Personalizada</text>
-
-  </text>  
-  <text name="shortdescription" extra="true">
-   <text>Todas las consolas y computadoras</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Juegos que usted a agregado a su colección personalizada</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Personalizada</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Todas las consolas y computadoras</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Juegos que usted a agregado a su colección personalizada</text>
+    </text>
+  </view>
 </theme>

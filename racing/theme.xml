@@ -1,22 +1,22 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Género Carreras</text>
-  </text>
-</view>    
+      <text>Género Carreras</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Carreras</text>
-  </text>    
-  <text name="shortdescription" extra="true">
-   <text>Género de juegos</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>En un juego de carreras el jugador compite abordo de un vehículo en una carrera contra otros jugadores o contra la CPU</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Carreras</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Género de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>En un juego de carreras el jugador compite abordo de un vehículo en una carrera contra otros jugadores o contra la CPU</text>
+    </text>
+  </view>
 </theme>

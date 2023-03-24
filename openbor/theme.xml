@@ -1,26 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Openbor</text>
-  </text>
-</view>    
+      <text>Openbor</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Senile Team</text>
- </text>
-  <text name="sys_line2" extra="true">
-    <text>OpenBor</text>
-
-  </text> 
-  <text name="shortdescription" extra="true">
-   <text>2003  ·  Motor de juegos</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Motor de juegos open source de desplazamiento horizontal. Es usado generalmente para la creación de juegos hechos por fans</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Senile Team</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>OpenBor</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2003 · Motor de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Motor de juegos open source de desplazamiento horizontal. Es usado generalmente para la creación de juegos hechos por fans</text>
+    </text>
+  </view>
 </theme>

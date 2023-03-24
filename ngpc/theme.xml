@@ -1,27 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>Neo Geo Pocket Color</text>
-  </text>
-</view>    
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Neo Geo Pocket Color</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>SNK</text>
-
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>Neo Geo Pocket Color</text>
-
-</text>
-  <text name="shortdescription" extra="true">
-   <text>1999  ·  Consola Portatil 16-bit</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Fue el reemplazo con pantalla a color de la Neo Geo Pocket. Es totalmente compatible con la misma.</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>SNK</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Neo Geo Pocket Color</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1999 · Consola Portatil 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Fue el reemplazo con pantalla a color de la Neo Geo Pocket. Es totalmente compatible con la misma.</text>
+    </text>
+  </view>
 </theme>

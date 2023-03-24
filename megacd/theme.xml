@@ -1,27 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>Sega Mega-CD</text>
-  </text>
-</view>    
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sega Mega-CD</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Sega</text>
-
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>Mega-CD</text>
-
-</text>
-  <text name="shortdescription" extra="true">
-   <text>1991  ·  Consola 16-bit</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Periférico para la Mega Drive que ampliaba su potencia y habilitaba la lectura de juegos y música desde CD-ROMs</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Mega-CD</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1991 · Consola 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Periférico para la Mega Drive que ampliaba su potencia y habilitaba la lectura de juegos y música desde CD-ROMs</text>
+    </text>
+  </view>
 </theme>

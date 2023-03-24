@@ -1,23 +1,22 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Género Beat 'em Up</text>
-  </text>
-</view>    
+      <text>Género Beat 'em Up</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Beat 'em Up</text>
-
-  </text>  
-  <text name="shortdescription" extra="true">
-   <text>Género de juegos</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Beat 'em up (Golpealos) es un género de juegos que consiste en peleas cuerpo a cuerpo o con armas entre el protagonista y un gran número de oponentes</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Beat 'em Up</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Género de juegos</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Beat 'em up (Golpealos) es un género de juegos que consiste en peleas cuerpo a cuerpo o con armas entre el protagonista y un gran número de oponentes</text>
+    </text>
+  </view>
 </theme>

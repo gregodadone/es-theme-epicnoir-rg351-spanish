@@ -1,27 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>Famicom Disk System</text>
-  </text>
-</view>    
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Famicom Disk System</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Nintendo Famicom</text>
-
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>Disk System</text>
-
-</text>
-  <text name="shortdescription" extra="true">
-   <text>1986  ·  Consola 8-bit</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Accesorio para la Nintendo Family Computer que permitía el uso de disquetes para jugar en vez de cartuchos. Fue lanzado únicamente en Japón</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Nintendo Famicom</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Disk System</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1986 · Consola 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Accesorio para la Nintendo Family Computer que permitía el uso de disquetes para jugar en vez de cartuchos. Fue lanzado únicamente en Japón</text>
+    </text>
+  </view>
 </theme>

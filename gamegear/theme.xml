@@ -1,27 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-    <text>Sega GameGear</text>
-  </text>
-</view>    
+  <view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+      <text>Sega GameGear</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Sega</text>
-
-  </text>
-  <text name="sys_line2" extra="true">
-    <text>GameGear</text>
-
-</text>
-  <text name="shortdescription" extra="true">
-   <text>1990  ·  Consola Portatil 8-bit</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>La Game Gear era una consola portatil que compartía mucho hardware con la Master System, y era capaz de correr sus propios juegos además de los de la Master System</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>GameGear</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1990 · Consola Portatil 8-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Era una consola portatil que compartía hardware con la Master System. Era retrocompatible con esta pero tenía también juegos propios</text>
+    </text>
+  </view>
 </theme>

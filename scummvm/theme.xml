@@ -1,23 +1,22 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>ScummVM</text>
-  </text>
-</view>    
+      <text>ScummVM</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>ScummVM</text>
-
-  </text> 
-  <text name="shortdescription" extra="true">
-   <text>2001  ·  Motor de juegos 2D</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Creado para poder ejecutar juegos de LucasArts para el motor Scumm. Originalmente pensado para juegos 2D, en 2020 se fusionó con ResidualVM para soportar 3D</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>ScummVM</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>2001 · Motor de juegos 2D</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Creado para poder ejecutar juegos de LucasArts para el motor Scumm. Originalmente pensado para juegos 2D, en 2020 se fusionó con ResidualVM para soportar 3D</text>
+    </text>
+  </view>
 </theme>

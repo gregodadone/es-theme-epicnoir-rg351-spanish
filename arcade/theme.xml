@@ -1,25 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Arcade</text>
-  </text>
-</view>    
+      <text>Arcade</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Máquinas Recreativas</text>
- </text>
-  <text name="sys_line2" extra="true">
-    <text>Arcade</text>
-  </text>    
-  <text name="shortdescription" extra="true">
-    <text>1970 - 2010  ·  Máquinas Recreativas</text>
-  </text>
-  <text name="longdescription" extra="true">
-    <text>Máquinas que funcionaban con fichas o monedas. Se encontraban en todos los bares y barrios entre la década de 1970 y 2000</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Máquinas Recreativas</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>Arcade</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1970 - 2010 · Máquinas Recreativas</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Máquinas que funcionaban con fichas o monedas. Se encontraban en todos los bares y barrios entre la década de 1970 y 2000</text>
+    </text>
+  </view>
 </theme>

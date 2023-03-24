@@ -1,25 +1,25 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Texas TI-99</text>
-  </text>
-</view>    
+      <text>Texas TI-99</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line1" extra="true">
-    <text>Texas Instrument</text>
-</text>
-  <text name="sys_line2" extra="true">
-    <text>TI-99</text>
-</text> 
-  <text name="shortdescription" extra="true">
-   <text>1981  ·  Computadora 16-bit</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>La Texas Instruments TI-99/4A es una computadora doméstica lanzada en Junio de 1981. Es una versión mejorada de la menos exitosa TI-99/4</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line1" extra="true">
+      <text>Texas Instrument</text>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>TI-99</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1981 · Computadora 16-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>La Texas Instruments TI-99/4A es una computadora doméstica lanzada en Junio de 1981. Es una versión mejorada de la menos exitosa TI-99/4</text>
+    </text>
+  </view>
 </theme>

@@ -1,29 +1,28 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Apagado</text>
-  </text>
+      <text>Apagado</text>
+    </text>
     <text name="systemInfo">
-   <text>Configuración</text>
-  </text>
-</view>    
+      <text>Configuración</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>Apagado</text>
-
-  </text> 
-  <text name="shortdescription" extra="true">
-   <text>Menú de apagado</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>Menú de opciones para apagar o reiniciar el sistema</text>
-  </text>
-  <text name="systemInfo">
-   <text>Configuración</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>Apagado</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>Menú de apagado</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>Menú de opciones para apagar o reiniciar el sistema</text>
+    </text>
+    <text name="systemInfo">
+      <text>Configuración</text>
+    </text>
+  </view>
 </theme>

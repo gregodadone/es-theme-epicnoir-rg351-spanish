@@ -1,22 +1,22 @@
 <theme>
-<formatVersion>7</formatVersion>
-<include>./../theme.xml</include>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+  <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>3DO</text>
-  </text>
-</view>    
+      <text>3DO</text>
+    </text>
+  </view>
 
-<view name="system">
-  <text name="sys_line2" extra="true">
-    <text>3DO</text>
-  </text>    
-  <text name="shortdescription" extra="true">
-   <text>1993  ·  Consola 32-bit</text>
-  </text>
-  <text name="longdescription" extra="true">
-   <text>La 3DO Interactive Multiplayer (o simplemente 3DO), es una consola hogareña desarrollada por The 3DO Company</text>
-  </text>
- </view>
+  <view name="system">
+    <text name="sys_line2" extra="true">
+      <text>3DO</text>
+    </text>
+    <text name="shortdescription" extra="true">
+      <text>1993 · Consola 32-bit</text>
+    </text>
+    <text name="longdescription" extra="true">
+      <text>La 3DO Interactive Multiplayer (o simplemente 3DO), es una consola hogareña desarrollada por The 3DO Company</text>
+    </text>
+  </view>
 </theme>
