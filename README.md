@@ -1,10 +1,10 @@
 # FORK EpicNoir RetroPie Theme
 
-Fork de [es-theme-epic-cody-RG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V) para la Ambernic RG351V.
+Fork de [es-theme-epic-cody-RG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V) para la Ambernic RG351V/MP.
 
 Traducido completamente al español y corregidos algunos errores.
 
-Contiene imágenes en calidad reducida para adaptarse a la pantalla de la RG351V, pero también sería util para la RG351MP u otras pantallas de 640x320.
+Contiene imágenes en calidad reducida para adaptarse a la pantalla de la RG351V, pero también sería util para la RG351MP u otras pantallas de 480x320.
 
 ## Licencia
 
@@ -50,13 +50,13 @@ La mayoría puede ser encontrado en [DeviantArt](http://www.deviantart.com/).
 3. Ejecutar en terminal:
 
        cd ~/.config/emulationstation/themes
-       git clone https://github.com/c64-dev/es-epicnoir.git
+       git clone https://github.com/gregodadone/es-theme-epicnoir-rg351-spanish.git
 
 ### Actualización
 
 Para actualizar el tema, si es que lo instaló con las instrucciones de arriba, ejecute en terminal:
 
-    cd ~/.config/emulationstation/themes/es-theme-epic-cody-RG351V
+    cd ~/.config/emulationstation/themes/es-theme-epicnoir-rg351-spanish
     git pull
 
 ### Notas del tema
