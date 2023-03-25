@@ -1,14 +1,14 @@
 # Tema EpicNoir en español para la RG351V/MP y otras pantallas 4:3
 
-Fork de [es-theme-epic-cody-RG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V){:target="_blank"} para la Ambernic RG351V/MP.
+Fork de [es-theme-epic-cody-RG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V) para la Ambernic RG351V/MP.
 
 Traducido completamente al español y corregidos algunos errores.
 
-Contiene imágenes en calidad reducida para adaptarse a la pantalla de la RG351V/MP. Sirve para otras pantallas 4:3. Una versión 16:9 del tema la puede encontrar [aquí](https://github.com/gregodadone/es-theme-epicnoir-spanish){:target="_blank"}.
+Contiene imágenes en calidad reducida para adaptarse a la pantalla de la RG351V/MP. Sirve para otras pantallas 4:3. Una versión 16:9 del tema la puede encontrar [aquí](https://github.com/gregodadone/es-theme-epicnoir-spanish).
 
 Debido a que este tema está muy enfocado en la serie de consolas Ambernic RG351, los sistemas incluidos son sólo aquellos que dichas máquinas pueden emular. Por eso no se incluyen Xbox, Playstation II y demás consolas que requieren más potencia para ser emuladas.
 
-Puede encontrar la versión completa con todas las consolas en este otro repositorio: [es-theme-epicnoir-spanish](https://github.com/gregodadone/es-theme-epicnoir-spanish){:target="_blank"}
+Puede encontrar la versión completa con todas las consolas en este otro repositorio: [es-theme-epicnoir-spanish](https://github.com/gregodadone/es-theme-epicnoir-spanish)
 
 ## Licencia
 
