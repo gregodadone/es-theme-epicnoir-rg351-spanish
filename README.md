@@ -1,14 +1,15 @@
-# FORK EpicNoir RetroPie Theme
+# Tema EpicNoir en español para la RG351V/MP y otras pantallas 4:3
 
 Fork de [es-theme-epic-cody-RG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V) para la Ambernic RG351V/MP.
 
 Traducido completamente al español y corregidos algunos errores.
 
-Contiene imágenes en calidad reducida para adaptarse a la pantalla de la RG351V, pero también sería util para la RG351MP u otras pantallas de 480x320.
+Contiene imágenes en calidad reducida para adaptarse a la pantalla de la RG351V/MP. Sirve para otras pantallas 4:3.
 
 ## Licencia
 
-Trabajo licenciado bajo una licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
+Trabajo licenciado bajo una licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Licence")
 
 Permitido:
@@ -59,70 +60,103 @@ Para actualizar el tema, si es que lo instaló con las instrucciones de arriba, 
     cd ~/.config/emulationstation/themes/es-theme-epicnoir-rg351-spanish
     git pull
 
-### Notas del tema
+## Notas del tema
 
 Este tema soporta video. Usted también puede scrapear imágenes en conjunto con el video. Si usted scrapea ambos, cuando un juego es seleccionado, va a mostrar la imagen por un par de segundos antes de desvanecerse y reproducir el video.
 
 Las screenshots no están incluidas con el tema. Usted puede scrapearlas usted mismo.
 
-## Sistemas soportados
-###### (fondos, imágenes de controlador, descripción) :
+### Sistemas soportados
 
-3DO \
-Amstrad CPC \
-Apple ][ \
-Apple Macintosh \
-Atari 800 \
-Atari 2600 \
-Atari 5200 \
-Atari 7800 \
-Atari Jaguar \
-Atari Lynx \
-Atari ST \
-Commodore 64 \
-Commodore Amiga \
-ColecoVision \ 
-Daphne \
-Famicom & Super Famicom \ 
-Game & Watch \
-Intellivision \
-MAME \ 
-MS-DOS \
-MSX & MSX 2 \
-Neo Geo \
-Neo Geo Pocket & Pocket Color \ 
-Nintendo 64 \
-Nintendo DS \
-Nintendo Dreamcast \ 
-Nintendo Entertainment System \
-Nintendo Gameboy \
-Nintendo Gameboy Advance\
-Nintendo Gameboy Color \
-Nintendo GameCube \
-Nintendo SNES \
-Nintendo VirtualBoy \
-Nintendo Wii & WiiU \
-PC-Engine \
-ScummVM \
-Sega Gamegear \
-Sega Genesis \
-Sega Mastersystem \
-Sega Mega 32x & CD \
-Sega Megadrive \
-Sega Saturn \
-Sega SG-1000 \
-Sinclair ZX Spectrum \
-Sony Playstation \
-Sony Playstation 2 \
-Sony PSP \
-SuperGrafx \
-TurboGrafx-16 \
-Valve Steam \
-Vectrex \
-Wonderswan \
-Wonderswan Color \
-x-68000 
+Se incluyen fondos, imágenes de controlador y descripción:
 
-**Colecciones:** \
-Colecciones automáticas
-Colecciones personalizadas (para cuando un usuario crea su propia colección dentro de EmulationStation)
+* 3DO
+* Amstrad CPC
+* Atari 800
+* Atari 2600
+* Atari 5200
+* Atari 7800
+* Atari Jaguar
+* Atari Lynx
+* Atari ST
+* Capcom CPS1
+* Capcom CPS2
+* Campcom CPS3
+* Commodore 16
+* Commodore 64
+* Commodore 128
+* Commodore Amiga
+* Commodore VIC-20
+* ColecoVision
+* Daphne
+* EasyRPG
+* Game & Watch
+* Intellivision
+* Magnavox Odyssey 2
+* MAME
+* Megaduck
+* MS-DOS
+* MSX
+* MSX 2
+* NEC PC-98
+* NEC PC-FX
+* Neo Geo
+* Neo Geo Pocket
+* Neo Geo Pocket Color
+* Nintendo 64
+* Nintendo DS
+* Nintendo Entertainment System
+* Nintendo Famicom
+* Nintendo Game Boy
+* Nintendo Game Boy Advance
+* Nintendo Game Boy Color
+* Nintendo Pokemon Mini
+* Nintendo Virtual Boy
+* Nintendo Wii
+* Nintendo Wii U
+* OpenBor
+* Pico-8
+* PC Engine
+* ScummVM & ResidualVM
+* Sega CD
+* Sega Dreamcast
+* Sega Gamegear
+* Sega Genesis
+* Sega Mastersystem
+* Sega Mega 32x
+* Sega Megadrive
+* Sega Naomi
+* Sega Saturn
+* Sega SC-3000
+* Sega SG-1000
+* Sinclair ZX Spectrum
+* Solarus
+* Sony Playstation
+* Sony PSP
+* Sufami
+* Super Famicom
+* Super Nintendo
+* SuperGrafx
+* Supervision
+* TIC-80
+* TI-99
+* TurboGrafx-16
+* Uzebox
+* Vectrex
+* Videopac
+* Wonderswan
+* Wonderswan Color
+* x-68000
+
+**Géneros de juegos**
+* Acción
+* Aventura
+* Beat'em Up
+* Carreras
+* Lucha
+* Plataforma
+* RPG
+
+**Colecciones:**
+* Colecciones automáticas
+* Colecciones personalizadas (para cuando un usuario crea su propia colección dentro de EmulationStation)
