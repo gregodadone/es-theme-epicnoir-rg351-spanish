@@ -10,7 +10,7 @@
 
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Sony</text>
+      <text>Sony (Minis)</text>
     </text>
     <text name="sys_line2" extra="true">
       <text>Playstation Portable</text>
@@ -19,7 +19,7 @@
       <text>2004 · Consola Portatil 32-bit</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Primera consola portatil de Sony. Podía correr juegos, reproducir música, conectarse a internet, a una TV y contaba con puerto para cámaras</text>
+      <text>Los minis fueron juegos pequeños y baratos para la PSP que no venían en cartuchos, sólo se podían descargar de la PS Store</text>
     </text>
   </view>
 </theme>
