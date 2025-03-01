@@ -4,23 +4,19 @@
 
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Famicom Disk System</text>
+      <text>FinalBurn Neo</text>
     </text>
   </view>
 
   <view name="system">
-    <text name="sys_line1" extra="true">
-      <text>Nintendo</text>
-    </text>
     <text name="sys_line2" extra="true">
-      <fontSize>0.14</fontSize>
-      <text>Famicom Disk System</text>
+      <text>FinalBurn Neo</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>1986 · Accesorio 8-bit</text>
+      <text>2020 · Emulador Arcade</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Accesorio para la Nintendo Family Computer que permitía el uso de disquetes para jugar en vez de cartuchos. Fue lanzado únicamente en Japón</text>
+      <text>Emulador de arcades, máquinas que funcionaban con fichas o monedas. Se encontraban en todos los bares y barrios entre la década de 1970 y 2000</text>
     </text>
   </view>
 </theme>

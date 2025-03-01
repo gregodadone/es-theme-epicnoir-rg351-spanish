@@ -4,23 +4,22 @@
 
   <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-      <text>Famicom Disk System</text>
+      <text>Atari Jaguar</text>
     </text>
   </view>
 
   <view name="system">
     <text name="sys_line1" extra="true">
-      <text>Nintendo</text>
+      <text>Atari</text>
     </text>
     <text name="sys_line2" extra="true">
-      <fontSize>0.14</fontSize>
-      <text>Famicom Disk System</text>
+      <text>Jaguar</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>1986 · Accesorio 8-bit</text>
+      <text>1993 · Consola 64-bit</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Accesorio para la Nintendo Family Computer que permitía el uso de disquetes para jugar en vez de cartuchos. Fue lanzado únicamente en Japón</text>
+      <text>Primera consola de 64 bits de la historia y última de Atari. Tenía una gran potencia pero un escaso repertorio de baja calidad.</text>
     </text>
   </view>
 </theme>
