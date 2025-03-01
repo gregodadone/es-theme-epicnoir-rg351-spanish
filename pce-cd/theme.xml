@@ -16,10 +16,10 @@
       <text>PC Engine CD-ROM</text>
     </text>
     <text name="shortdescription" extra="true">
-      <text>1988 · Consola 16-bit</text>
+      <text>1988 · Accesorio 16-bit</text>
     </text>
     <text name="longdescription" extra="true">
-      <text>Periférico para la PC Engine. Permitía a la PC Engine correr juegos en formato CD-ROM. Se lanzaron sólo 10 juegos con este formato.</text>
+      <text>La PC-Engine CD fue una extensión de la consola PC-Engine que permitía leer juegos en formato CD-ROM, ofreciendo mejoras gráficas y de sonido, así como capacidades multimedia adicionales.</text>
     </text>
   </view>
 </theme>
