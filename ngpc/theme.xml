@@ -13,7 +13,8 @@
       <text>SNK</text>
     </text>
     <text name="sys_line2" extra="true">
-      <text>Neo Geo Pocket Color</text>
+      <fontSize>0.13</fontSize>
+      <text>Neo-Geo Pocket Color</text>
     </text>
     <text name="shortdescription" extra="true">
       <text>1999 · Consola Portatil 16-bit</text>

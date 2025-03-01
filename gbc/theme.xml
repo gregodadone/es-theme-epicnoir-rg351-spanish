@@ -13,6 +13,7 @@
       <text>Nintendo</text>
     </text>
     <text name="sys_line2" extra="true">
+      <fontSize>0.18</fontSize>
       <text>Game Boy Color</text>
     </text>
     <text name="shortdescription" extra="true">

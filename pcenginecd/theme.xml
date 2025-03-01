@@ -13,6 +13,7 @@
       <text>NEC</text>
     </text>
     <text name="sys_line2" extra="true">
+      <fontSize>0.17</fontSize>
       <text>PC Engine CD-ROM</text>
     </text>
     <text name="shortdescription" extra="true">
